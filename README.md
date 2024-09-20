@@ -1,6 +1,7 @@
 # Mintlify Starter Kit
 
-mit sofia
+Start
+
 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
